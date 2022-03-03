@@ -6,4 +6,4 @@
   * Nguyễn Đình Gia Huy
   * Nguyễn Huỳnh Thanh Tân
   * Nguyễn Huỳnh Việt Tiến
-  * Nguyên Tuần Kiệt
+  * Nguyên Tuấn Kiệt
